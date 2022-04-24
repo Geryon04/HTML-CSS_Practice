@@ -5,16 +5,17 @@ body{
     padding-right: 200px;
 }
 main{
-    background-color: white;
-}
-title{
     background-color: gray;
+}
+#title{
+    background-color: gray;
+    color:black;
     text-align: center;
 
 }
-#main-section{
+.main-section{
     border: black;
-    color: white;
+    color: red;
 }
 p{
     color:black;
